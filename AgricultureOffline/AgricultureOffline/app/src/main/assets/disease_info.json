@@ -1,0 +1,214 @@
+[
+  {
+    "class_name": "Mango_Anthracnose",
+    "name": "Mango_Anthracnose",
+    "plant_name": "Mango",
+    "disease_name": "Anthracnose",
+    "symptoms": "Blossom blight, leaf spot, and fruit rot. Black necrotic areas develop on twigs from the tip downwards causing dieback. Black spots appearing on the skin of affected fruits gradually become sunken and coalesce.",
+    "treatment": "Pruning of dense branches to improve airflow. Spray Pseudomonas fluorescens (FP 7) at 3-week intervals commencing from October at 5g/L on flower branches (5-7 sprays on flowers and bunches). Chemical control: Carbendazim 50 WP at 1 g/L of water.",
+    "prevention": "Before storage of mango fruits, treat with hot water (50-55°C) for 15 minutes. Regularly collect and burn fallen diseased leaves and pruned twigs.",
+    "source_url": "https://www.celkau.in/Crops/fruits/Mango/anthracnose.php"
+  },
+  {
+    "class_name": "Mango_Bacterial Canker",
+    "name": "Mango_Bacterial Canker",
+    "plant_name": "Mango",
+    "disease_name": "Bacterial Canker",
+    "symptoms": "Dark, angular, water-soaked spots with yellow halos restricted by leaf veins. Spots coalesce into large necrotic patches. Leads to formation of cracks, longitudinal fissures, and gummosis on affected stems and twigs.",
+    "treatment": "Spray Pseudomonas at 20 g/L. Spray 1% Bordeaux mixture at 2-week intervals, or apply Copper Oxychloride 50 WP (2-3 g/L) or Carbendazim 50 WP (1 g/L).",
+    "prevention": "Use certified disease-free seeds and planting stock. Practice strict orchard sanitation and collect and burn fallen infected plant debris.",
+    "source_url": "https://www.celkau.in/Crops/fruits/Mango/canker.php"
+  },
+  {
+    "class_name": "Mango_Cutting Weevil",
+    "name": "Mango_Cutting Weevil",
+    "plant_name": "Mango",
+    "disease_name": "Cutting Weevil Damage",
+    "symptoms": "Young mango leaves may show cutting, damaged edges or premature leaf drop associated with cutting weevil feeding. Similar damage can have other causes.",
+    "treatment": "Inspect new flushes for weevils and feeding damage. Remove severely affected fallen leaves where practical. Seek locally recommended integrated pest management advice before applying any pesticide.",
+    "prevention": "Monitor young shoots and leaves regularly, maintain orchard hygiene and encourage beneficial insects. Follow locally approved pest-management guidance."
+  },
+  {
+    "class_name": "Mango_Die Back",
+    "name": "Mango_Die Back",
+    "plant_name": "Mango",
+    "disease_name": "Dieback",
+    "symptoms": "Most conspicuous during October-November. Progressive drying of twigs and branches from tip downwards followed by complete defoliation, giving a scorched appearance. Leaves turn brown, roll upwards, shrivel, and fall. Accompanied by exudation of yellowish-brown gum.",
+    "treatment": "Prune diseased twigs 2-3 inches below the affected portion. Paste cut ends with Bordeaux paste or Copper Oxychloride 50 WP (10 g/L), followed by canopy spraying of 1% Bordeaux mixture or Copper Oxychloride (2-3 g/L).",
+    "prevention": "Sterilize pruning tools between cuts. Avoid mechanical injuries and protect cut stubs with copper fungicide paste immediately.",
+    "source_url": "https://www.celkau.in/Crops/fruits/Mango/dieback.php"
+  },
+  {
+    "class_name": "Mango_Gall Midge",
+    "name": "Mango_Gall Midge",
+    "plant_name": "Mango",
+    "disease_name": "Gall Midge Damage",
+    "symptoms": "Mango leaves or young shoots may develop small raised galls, distorted growth or damaged patches associated with gall midge infestation. Visual symptoms alone are not conclusive.",
+    "treatment": "Inspect affected leaves and shoots for signs of gall formation. Remove heavily affected material when appropriate and consult local agricultural extension services for region-specific control.",
+    "prevention": "Monitor new growth regularly, remove heavily infested plant debris when appropriate and use locally recommended integrated pest management."
+  },
+  {
+    "class_name": "Mango_Healthy",
+    "name": "Mango_Healthy",
+    "plant_name": "Mango",
+    "disease_name": "Healthy Mango",
+    "symptoms": "Leaf appears healthy without obvious disease lesions or pest damage in the image. A photograph cannot rule out hidden or early-stage problems.",
+    "treatment": "No disease treatment is indicated from this image. Continue normal plant care and monitoring.",
+    "prevention": "Maintain appropriate watering, nutrition, airflow and orchard sanitation; inspect foliage regularly."
+  },
+  {
+    "class_name": "Mango_Powdery Mildew",
+    "name": "Mango_Powdery Mildew",
+    "plant_name": "Mango",
+    "disease_name": "Powdery Mildew",
+    "symptoms": "White superficial powdery fungal growth on leaves, stalks of panicles, flowers, and young fruits. Affected flowers and fruits drop prematurely, reducing crop load or preventing fruit set. Favored by rains or mists accompanied by cooler nights during flowering (December-March).",
+    "treatment": "Spray Wettable sulphur 80 WP at 2 g/L of water or Dinocap 48 EC at 2 ml/L of water. Foliar application of baking soda at 5 g/L of water is also effective.",
+    "prevention": "Maintain proper tree vigor and orchard health. Manage sucking pests that act as vectors. Prune inner branches to reduce humidity.",
+    "source_url": "https://www.celkau.in/Crops/fruits/Mango/mildew.php"
+  },
+  {
+    "class_name": "Mango_Sooty Mould",
+    "name": "Mango_Sooty Mould",
+    "plant_name": "Mango",
+    "disease_name": "Sooty Mould",
+    "symptoms": "Superficial dark fungal mycelium forms a black encrustation on leaves, stems, and twigs, severely impairing photosynthetic activity. Fungus grows on sugary honeydew secretions deposited by jassids, aphids, hoppers, and scale insects.",
+    "treatment": "Simultaneously manage insects and fungus. Foliar spraying of starch solution (starch dries and forms flakes that peel off with the fungus). Follow after 2 weeks with foliar spraying of 1% Bordeaux mixture or Copper Oxychloride 50 WP (2-3 g/L) and Dimethoate 30 EC (2 ml/L) for insect vectors.",
+    "prevention": "Control sucking pest populations (jassids, leafhoppers, aphids, scale insects) early to prevent honeydew accumulation on foliage.",
+    "source_url": "https://www.celkau.in/Crops/fruits/Mango/sooty.php"
+  },
+  {
+    "class_name": "PlantVillage_Pepper__bell___Bacterial_spot",
+    "name": "PlantVillage_Pepper__bell___Bacterial_spot",
+    "plant_name": "Bell Pepper",
+    "disease_name": "Bacterial Spot",
+    "symptoms": "Small, water-soaked, dark brown to black circular lesions with yellow halos appear on pepper leaves and fruit. Leaves turn chlorotic and drop prematurely, leading to defoliation and sunscald on fruits.",
+    "treatment": "Remove and destroy infected plant parts. Apply copper-based bactericides (or copper mixed with mancozeb) at early disease detection. Avoid overhead irrigation and work only when foliage is dry.",
+    "prevention": "Use certified disease-free seeds and resistant varieties. Practice 2 to 3 year crop rotation away from solanaceous plants. Disinfect stakes and tools, and maintain proper spacing for good canopy airflow."
+  },
+  {
+    "class_name": "PlantVillage_Pepper__bell___healthy",
+    "name": "PlantVillage_Pepper__bell___healthy",
+    "plant_name": "Bell Pepper",
+    "disease_name": "Healthy Bell Pepper",
+    "symptoms": "Foliage is vibrant green, firm, and uniform with no necrotic spots, yellow halos, or abnormal wilting. Stems and developing peppers show robust healthy growth.",
+    "treatment": "No disease treatment required. Continue regular crop management practices.",
+    "prevention": "Maintain consistent soil moisture with base watering, apply balanced N-P-K fertilizer according to crop stages, mulch to regulate soil temperature, and monitor weekly for aphids and thrips."
+  },
+  {
+    "class_name": "PlantVillage_Potato___Early_blight",
+    "name": "PlantVillage_Potato___Early_blight",
+    "plant_name": "Potato",
+    "disease_name": "Early Blight",
+    "symptoms": "Dark brown to black circular lesions with distinct concentric rings (target-board appearance) develop primarily on older lower leaves. Foliage yellows around lesions and gradually dies.",
+    "treatment": "Remove and discard severely infected lower leaves. Apply approved protectant fungicides such as chlorothalonil, mancozeb, or azoxystrobin upon early appearance.",
+    "prevention": "Practice a 3-year crop rotation avoiding potatoes and tomatoes. Use drip irrigation to prevent wet foliage, hill soil properly, and ensure adequate potassium and nitrogen levels."
+  },
+  {
+    "class_name": "PlantVillage_Potato___Late_blight",
+    "name": "PlantVillage_Potato___Late_blight",
+    "plant_name": "Potato",
+    "disease_name": "Late Blight",
+    "symptoms": "Rapidly expanding water-soaked, dark green to purplish-brown lesions on leaves and stems. Under cool, humid conditions, a delicate white fungal mold develops on leaf undersides. Foliage rapidly browns and collapses.",
+    "treatment": "Immediately rogue and destroy infected plants to prevent airborne spore spread. Spray targeted fungicides such as cymoxanil, metalaxyl, or copper hydroxide upon detection.",
+    "prevention": "Plant only certified disease-free seed tubers. Eliminate cull piles and volunteer potatoes before planting. Avoid sprinkler irrigation and ensure proper field drainage."
+  },
+  {
+    "class_name": "PlantVillage_Potato___healthy",
+    "name": "PlantVillage_Potato___healthy",
+    "plant_name": "Potato",
+    "disease_name": "Healthy Potato",
+    "symptoms": "Lush, dark green, healthy leaves with sturdy stems and no evidence of blight, chlorosis, stippling, or wilting.",
+    "treatment": "No treatment required. Maintain standard cultural practices.",
+    "prevention": "Hill soil around potato stems to shield tubers from light and pests, maintain consistent soil moisture, and scout regularly for Colorado potato beetles and leafhoppers."
+  },
+  {
+    "class_name": "PlantVillage_Tomato_Bacterial_spot",
+    "name": "PlantVillage_Tomato_Bacterial_spot",
+    "plant_name": "Tomato",
+    "disease_name": "Bacterial Spot",
+    "symptoms": "Small (1 to 3 mm), dark brown, water-soaked circular spots on leaves that turn angular over time. Severe infection causes yellowing, extensive defoliation, and rough scab-like spots on green tomatoes.",
+    "treatment": "Apply fixed copper bactericides combined with mancozeb. Remove and discard heavily diseased foliage. Avoid touching or working in the crop when leaves are damp.",
+    "prevention": "Use certified disease-free seeds and transplants. Practice 2 to 3 year crop rotation away from peppers and tomatoes. Use drip irrigation and sanitize support stakes and cages."
+  },
+  {
+    "class_name": "PlantVillage_Tomato_Early_blight",
+    "name": "PlantVillage_Tomato_Early_blight",
+    "plant_name": "Tomato",
+    "disease_name": "Early Blight",
+    "symptoms": "Dark brown circular spots with concentric target-pattern rings on older, lower leaves. A yellow halo surrounds each spot, leading to leaf chlorosis, withering, and early defoliation.",
+    "treatment": "Prune off infected lower leaves up to 12 inches from ground level. Apply copper-based fungicides, chlorothalonil, or Bacillus subtilis. Mulch under plants to prevent soil splash.",
+    "prevention": "Stake or cage plants to keep foliage elevated off soil. Practice 3-year crop rotation. Water in early morning at the base of the plant to keep leaves dry."
+  },
+  {
+    "class_name": "PlantVillage_Tomato_Late_blight",
+    "name": "PlantVillage_Tomato_Late_blight",
+    "plant_name": "Tomato",
+    "disease_name": "Late Blight",
+    "symptoms": "Large, dark brown to olive water-soaked blotches on leaves and stems. White, cottony fungal growth develops on undersides of leaves during high humidity. Fruits develop greasy brown, firm lesions.",
+    "treatment": "Immediately remove and dispose of infected plants in sealed bags. Apply protectant fungicides such as copper octanoate, chlorothalonil, or mandipropamid.",
+    "prevention": "Plant blight-resistant tomato varieties (e.g., Mountain Magic, Defiant). Space plants generously for airflow, avoid overhead watering, and eliminate nearby volunteer potatoes and nightshades."
+  },
+  {
+    "class_name": "PlantVillage_Tomato_Leaf_Mold",
+    "name": "PlantVillage_Tomato_Leaf_Mold",
+    "plant_name": "Tomato",
+    "disease_name": "Leaf Mold",
+    "symptoms": "Pale green to yellowish spots appear on the upper leaf surface, while olive-green to velvety brown mold develops on corresponding lower leaf surfaces. Common in humid environments.",
+    "treatment": "Increase ventilation and reduce relative humidity below 85%. Prune dense suckers and lower leaves. Apply copper-based fungicides or bio-fungicides.",
+    "prevention": "Ensure high air circulation around plants, avoid wetting foliage during irrigation, sanitize greenhouse structures, and select resistant cultivars."
+  },
+  {
+    "class_name": "PlantVillage_Tomato_Septoria_leaf_spot",
+    "name": "PlantVillage_Tomato_Septoria_leaf_spot",
+    "plant_name": "Tomato",
+    "disease_name": "Septoria Leaf Spot",
+    "symptoms": "Numerous circular spots (1.5 to 3 mm) with dark brown margins and light gray or tan centers containing tiny black fruiting bodies (pycnidia). Leaves turn yellow and drop from the bottom upward.",
+    "treatment": "Prune and dispose of infected lower leaves immediately. Spray protectant fungicides (chlorothalonil or copper-based sprays) every 7 to 10 days during rainy periods.",
+    "prevention": "Mulch soil beneath plants to prevent soil splash. Avoid overhead sprinkling. Practice 3-year crop rotation and clean up all garden debris thoroughly at season end."
+  },
+  {
+    "class_name": "PlantVillage_Tomato_Spider_mites_Two_spotted_spider_mite",
+    "name": "PlantVillage_Tomato_Spider_mites_Two_spotted_spider_mite",
+    "plant_name": "Tomato",
+    "disease_name": "Two-Spotted Spider Mite",
+    "symptoms": "Fine yellow or white stippling (speckling) across upper leaf surfaces. Leaves turn bronze, dry out, and curl. Fine silky webbing is noticeable under leaves and at branch junctions in heavy infestations.",
+    "treatment": "Spray insecticidal soap, neem oil, or horticultural oils thoroughly coating the undersides of leaves. For severe infestations, release predatory mites (Phytoseiulus persimilis) or apply selective miticides.",
+    "prevention": "Maintain adequate irrigation to avoid plant drought stress which accelerates mite reproduction. Suppress dusty conditions near plantings and avoid over-applying broad-spectrum insecticides that kill natural predators."
+  },
+  {
+    "class_name": "PlantVillage_Tomato__Target_Spot",
+    "name": "PlantVillage_Tomato__Target_Spot",
+    "plant_name": "Tomato",
+    "disease_name": "Target Spot",
+    "symptoms": "Circular brown lesions with darker concentric rings and yellow chlorotic margins on leaves, stems, and fruits throughout the canopy. Affected leaves drop rapidly.",
+    "treatment": "Apply fungicides containing azoxystrobin, difenoconazole, or copper hydroxide. Prune dense interior foliage to improve light penetration and airflow.",
+    "prevention": "Avoid overhead watering, space plants at least 24 to 36 inches apart, manage weeds, and remove old crop residues promptly after harvest."
+  },
+  {
+    "class_name": "PlantVillage_Tomato__Tomato_YellowLeaf__Curl_Virus",
+    "name": "PlantVillage_Tomato__Tomato_YellowLeaf__Curl_Virus",
+    "plant_name": "Tomato",
+    "disease_name": "Tomato Yellow Leaf Curl Virus",
+    "symptoms": "Marked upward curling and cupping of leaf margins, severe yellowing (interveinal chlorosis), reduced leaf size, stunted bushy growth, and extensive flower drop leading to minimal fruit set.",
+    "treatment": "No curative chemical treatment exists for plant viruses. Rogue (uproot) and destroy infected plants immediately to prevent transmission to neighboring crops.",
+    "prevention": "Control whitefly vectors (Bemisia tabaci) using yellow sticky traps, insect netting, and insecticidal soaps. Plant certified TYLCV-resistant hybrids and clear weed hosts."
+  },
+  {
+    "class_name": "PlantVillage_Tomato__Tomato_mosaic_virus",
+    "name": "PlantVillage_Tomato__Tomato_mosaic_virus",
+    "plant_name": "Tomato",
+    "disease_name": "Tomato Mosaic Virus",
+    "symptoms": "Mottled light and dark green mosaic patterns on foliage, leaf distortion, blistered lamina, fern-like leaf thinning, and overall stunted plant vigor.",
+    "treatment": "Viral infections cannot be cured with chemicals. Safely dig up and discard infected plants. Wash hands and tools thoroughly with soap or 20% skim milk solution before handling healthy plants.",
+    "prevention": "Plant resistant tomato cultivars (bearing the Tm-2 or Tm-2² gene). Never smoke or handle tobacco products before working with tomatoes. Sanitize pruning shears and trellises."
+  },
+  {
+    "class_name": "PlantVillage_Tomato_healthy",
+    "name": "PlantVillage_Tomato_healthy",
+    "plant_name": "Tomato",
+    "disease_name": "Healthy Tomato",
+    "symptoms": "Dark green, vibrant leaves free of necrotic spots, chlorosis, curling, or webbing. Sturdy stems and normal flower and fruit set.",
+    "treatment": "No disease treatment needed. Maintain optimal crop care.",
+    "prevention": "Water deeply at root level (1 to 2 inches weekly), mulch generously, stake or trellis vines securely, and fertilize with balanced nutrients including calcium to prevent blossom end rot."
+  }
+]
